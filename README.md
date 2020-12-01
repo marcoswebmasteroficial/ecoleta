@@ -11,7 +11,7 @@
  <a href="#-tecnologias">Tecnologias</a> • 
 </p>
 <p align="center">
-  <a href="https://github.com/tgmarinho/README-ecoleta/blob/master/Insomnia_API_Ecoletajson.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+  <a href="https://github.com/marcoswebmasteroficial/ecoleta/blob/master/Insomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 
 ## 💻 Sobre o projeto
